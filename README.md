@@ -3,4 +3,4 @@
 * Clone this repository.
 * Checkout the function in the `./functions/og` directory.
 * Open `fly.toml` and update the app name.
-* Then in the terminal, run `fly deploy`.
+* Then in the terminal, run `fly launch`.
